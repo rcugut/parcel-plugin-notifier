@@ -2,7 +2,9 @@
 
 Parcel plugin that shows native OS notifications after builds.
 
+Example: macOS notification after a failed build
 
+![example macOS notification](https://github.com/rcugut/parcel-plugin-notifier/raw/master/example-macos-notification.png)
 
 
 ## Install
