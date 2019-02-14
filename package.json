@@ -1,0 +1,28 @@
+{
+  "name": "parcel-plugin-notifier",
+  "version": "1.0.0",
+  "description": "Parcel plugin that shows native OS notifications after builds.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcugut/parcel-plugin-notifier.git"
+  },
+  "keywords": [
+    "parcel-bundler",
+    "parceljs",
+    "notifier",
+    "notification"
+  ],
+  "author": "Radu Cugut <rcugut@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcugut/parcel-plugin-notifier/issues"
+  },
+  "homepage": "https://github.com/rcugut/parcel-plugin-notifier",
+  "dependencies": {
+    "node-notifier": ">= 4.3.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.0.0"
+  }
+}
